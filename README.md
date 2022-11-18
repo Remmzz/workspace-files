@@ -1,2 +1,2 @@
-# workspace-files
-Refactoring Terraform for Azure using workspaces, initial configs
+# learn-terraform-code-organization-azure-separate-files
+file separation for Azure refactoring
